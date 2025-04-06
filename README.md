@@ -15,3 +15,7 @@ Browse through the sections to explore my work.
 ## Contributors
 
 - [Your Name](https://github.com/your-username)
+
+## Contacts
+
+- [Lazio Barnett](https://github.com/your-username)
