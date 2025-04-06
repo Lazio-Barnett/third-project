@@ -19,3 +19,8 @@ Browse through the sections to explore my work.
 ## Contacts
 
 - [Lazio Barnett](https://github.com/your-username)
+
+## Skills
+
+-Github
+-Markdown formatting
